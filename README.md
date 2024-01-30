@@ -1,6 +1,4 @@
 # Sistema de Currículo Online
-
-# Sobre o projeto
 O Sistema de Currículo Online é uma aplicação web que permite aos usuários criar, visualizar, editar e excluir currículos online. Além disso, os usuários têm a opção de configurar seu perfil, adicionar uma foto de perfil e fazer o download do seu currículo em formato PDF.
 
 # Funcionalidades <br>
