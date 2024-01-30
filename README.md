@@ -26,5 +26,5 @@ Frameworks/Libraries: Bootstrap (para o frontend), TCPDF (para gerar o PDF. <br>
 🔸 Crie uma conta de usuário e comece a criar seu currículo. <br>
 🔸 Explore as funcionalidades adicionais, como configuração de perfil e download de currículo. <br>
 
-##
-🌐 Link do projeto: https://viviianealvesc.github.io/Curriculo-online/
+## 🌐 Link do projeto
+ https://viviianealvesc.github.io/Curriculo-online/
