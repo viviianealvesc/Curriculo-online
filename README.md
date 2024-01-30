@@ -21,12 +21,12 @@ Frameworks/Libraries: Bootstrap (para o frontend), TCPDF (para gerar o PDF. <br>
 ##
 
 # Como Usar
-1️⃣Faça o download do projeto ou clone-o para o seu computador. <br>
-2️⃣Importe o banco de dados fornecido (database.sql) para o seu servidor MySQL. <br>
-3️⃣Configure as credenciais do banco de dados no arquivo config.php. <br>
-4️⃣Abra o arquivo index.php em um navegador da web compatível. <br>
-5️⃣Crie uma conta de usuário e comece a criar seu currículo. <br>
-6️⃣Explore as funcionalidades adicionais, como configuração de perfil e download de currículo. <br>
+🔸 Faça o download do projeto ou clone-o para o seu computador. <br>
+🔸 Importe o banco de dados fornecido (database.sql) para o seu servidor MySQL. <br>
+🔸 Configure as credenciais do banco de dados no arquivo config.php. <br>
+🔸 Abra o arquivo index.php em um navegador da web compatível. <br>
+🔸 Crie uma conta de usuário e comece a criar seu currículo. <br>
+🔸 Explore as funcionalidades adicionais, como configuração de perfil e download de currículo. <br>
 
 ##
- Link do projeto: https://viviianealvesc.github.io/Curriculo-online/
+🌐 Link do projeto: https://viviianealvesc.github.io/Curriculo-online/
